@@ -1,3 +1,3 @@
-#Javascript
-#alert("Hello World!");
+//Javascript
+//alert("Hello World!");
 console.log('Hello World!');
